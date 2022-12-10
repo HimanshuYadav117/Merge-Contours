@@ -1,5 +1,6 @@
 # Merge-Contours
 Optimized Merging Contours logic on basis of distance of nearby contours in C++ &amp; OpenCV 
+
 ########## THE LOGIC IS ALSO COMPATIBLE WITH EDGE SUB PIXEL header file which finds contour in sub pixel range ##########
 
 To use merge contours function in your own c++ code you just need the basic OPENCV liberary headers included in your main file.
